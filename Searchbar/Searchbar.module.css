@@ -1,0 +1,13 @@
+.searchbar{
+    background: #fff;
+}
+.search-input{
+    padding: 3px;
+    border: none;
+    border-bottom: 1px solid rgb(119, 112, 112);
+    outline: none !important;
+}
+.search-icon{
+    font-size: 20px;
+    padding: 0 25px;
+}

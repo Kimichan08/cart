@@ -1,0 +1,53 @@
+.card {
+    margin-bottom: 30px;
+}
+
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: none !important;
+    border-radius: 0;
+}
+.line-minus{
+    font-size: 18px;
+    text-align: center;
+    border: 1px solid #ebebeb;
+    background: #f5f5f5;
+    border-top-left-radius: 45px;
+    border-bottom-left-radius: 45px;
+}
+.line-plus{
+    font-size: 18px;
+    text-align: center;
+    border: 1px solid #ebebeb;
+    background: #f5f5f5;
+    border-top-right-radius: 45px;
+    border-bottom-right-radius: 45px;
+}
+.minus, .plus{
+    margin: 7px;
+    border: none !important;
+}
+.number{
+    margin: 2px;
+    border: 1px solid #111;
+    padding: 5px 45px 9px 45px;
+    border: 1px solid #ebebeb;
+
+}
+.btn-rounded{
+    background: #6ac71b;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 30px;
+    box-shadow: none !important;
+}
+.text-infor{
+    border-bottom: 2px solid #6ac71b;
+}
+
